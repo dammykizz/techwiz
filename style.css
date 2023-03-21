@@ -1,0 +1,50 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.banner {
+    background-image:linear-gradient( rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(./malhub-learning\ \(1\).jpeg);
+    background-size: cover;
+    height: 100vh;
+}
+.container {
+    width: 45%;
+}
+.banner-content {
+    padding-top: 200px;
+    padding-left: 125px;
+    width: 35%;
+}
+h2 {
+    color: white;
+    font-size: 90px;
+    line-height: 85px;
+}
+hr {
+    width: 80px;
+    height: 7px;
+    color: white;
+    background-color: white;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 40px;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+button {
+    width: 300px;
+    height: 60px;
+    border-radius:15px;
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    background-color: rgb(89, 89, 222);
+    border: none;
+    margin-top: 20px;
+}
